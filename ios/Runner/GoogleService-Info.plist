@@ -1,0 +1,36 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>CLIENT_ID</key>
+	<string>268280592465-2s8lrl3j4a8mum3hp85d5k0bae85509h.apps.googleusercontent.com</string>
+	<key>REVERSED_CLIENT_ID</key>
+	<string>com.googleusercontent.apps.268280592465-2s8lrl3j4a8mum3hp85d5k0bae85509h</string>
+	<key>ANDROID_CLIENT_ID</key>
+	<string>268280592465-cku2rur6ng9nj87cr50orfbgcnv2pmlj.apps.googleusercontent.com</string>
+	<key>API_KEY</key>
+	<string>AIzaSyA30QiDDDimDR6B4MngcZO9t-Eca_T8U24</string>
+	<key>GCM_SENDER_ID</key>
+	<string>268280592465</string>
+	<key>PLIST_VERSION</key>
+	<string>1</string>
+	<key>BUNDLE_ID</key>
+	<string>com.grupoFC.farmaciacolonial</string>
+	<key>PROJECT_ID</key>
+	<string>farmaciacolonialbd</string>
+	<key>STORAGE_BUCKET</key>
+	<string>farmaciacolonialbd.appspot.com</string>
+	<key>IS_ADS_ENABLED</key>
+	<false></false>
+	<key>IS_ANALYTICS_ENABLED</key>
+	<false></false>
+	<key>IS_APPINVITE_ENABLED</key>
+	<true></true>
+	<key>IS_GCM_ENABLED</key>
+	<true></true>
+	<key>IS_SIGNIN_ENABLED</key>
+	<true></true>
+	<key>GOOGLE_APP_ID</key>
+	<string>1:268280592465:ios:1719af38903dd25d026070</string>
+</dict>
+</plist>

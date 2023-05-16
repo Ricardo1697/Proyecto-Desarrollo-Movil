@@ -1,0 +1,54 @@
+{
+  "project_info": {
+    "project_number": "268280592465",
+    "project_id": "farmaciacolonialbd",
+    "storage_bucket": "farmaciacolonialbd.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:268280592465:android:d3381dc37a815dee026070",
+        "android_client_info": {
+          "package_name": "com.grupoFC.farmaciacolonial"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "268280592465-cku2rur6ng9nj87cr50orfbgcnv2pmlj.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.grupoFC.farmaciacolonial",
+            "certificate_hash": "9bbb3186b2189ef16d8f272bdab59362c395cbb4"
+          }
+        },
+        {
+          "client_id": "268280592465-kl47drphm6gnp7mtncej196nh26f5a85.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBl3NKceGWSnTx8w-ydH3yzw4a4Ny5uBZw"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "268280592465-kl47drphm6gnp7mtncej196nh26f5a85.apps.googleusercontent.com",
+              "client_type": 3
+            },
+            {
+              "client_id": "268280592465-2s8lrl3j4a8mum3hp85d5k0bae85509h.apps.googleusercontent.com",
+              "client_type": 2,
+              "ios_info": {
+                "bundle_id": "com.grupoFC.farmaciacolonial"
+              }
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

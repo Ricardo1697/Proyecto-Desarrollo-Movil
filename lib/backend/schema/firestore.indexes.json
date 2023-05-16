@@ -1,0 +1,18 @@
+{
+  "indexes": [
+    {
+      "collectionGroup": "Citas",
+      "queryScope": "COLLECTION",
+      "fields": [
+        {
+          "fieldPath": "estado",
+          "order": "ASCENDING"
+        },
+        {
+          "fieldPath": "fechaSeleccionada",
+          "order": "ASCENDING"
+        }
+      ]
+    }
+  ]
+}
